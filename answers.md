@@ -13,31 +13,10 @@ On branch main
 No commits yet
 
 answer 5:
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	answers.md
+it simply says that nothing has been committed yet.
 
 answer 6:
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-	new file:   answers.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	answers.md
+it says that there are news files ready to be committed.
 
 answer 7:
 [main (root-commit) 29dc121] Initial Commit
@@ -51,28 +30,13 @@ Date:   Wed Sep 2 16:26:59 2026 -0400
 
     Initial Commit
 answer 9:
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	answers.md
-
 nothing added to commit but untracked files present (use "git add" to track)
+
 answer 10:
 no they were not automatically transfered to my local file.
 
 answer 11:
-jamesbernosky@Jamess-MacBook-Pro:~/Programming/git-lab$ git push
-To https://github.com/jamesbernosky/git-lab.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/jamesbernosky/git-lab.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-jamesbernosky@Jamess-MacBook-Pro:~/Programming/git-lab$
+we did not locally have the files needed for it to push properly.
 
 answer 12:
 yes they were reflected in my local files after running git pull.
@@ -80,5 +44,4 @@ yes they were reflected in my local files after running git pull.
 answer 13:
 .         ..        git-lab-2 Labs
 
-answer 14:
 
