@@ -26,6 +26,18 @@ Untracked files:
 	answers.md
 
 answer 6:
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	answers.md
 
 answer 7:
 [main (root-commit) 29dc121] Initial Commit
